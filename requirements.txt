@@ -1,2 +1,3 @@
 discord.py-self
 aiohttp      # 图片转发要用
+requests
